@@ -2,7 +2,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsfelipesantiago)](https://github.com/devsfelipesantiago/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsfelipesantiago&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsfelipesantiago&show_icons=true)
+
 
 
 
