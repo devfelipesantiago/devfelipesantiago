@@ -7,7 +7,8 @@
   - Tenho programado tanho web quanto mobile, sempre utilizando TDD.
   - Adoro a programação e a idéia de poder criar soluções, por esse motivo fiz essa transição de carreira e tenho confiança que escolhi certo!
   
-![image](https://user-images.githubusercontent.com/63599404/120906268-49918180-c62e-11eb-92e1-e0f7d19143bb.png)
+<img src:"https://user-images.githubusercontent.com/63599404/120906357-2f0bd800-c62f-11eb-9796-82510d2e7536.png" height="150" widt"150">
+
 
 Link para repositórios dos quais mais se orgulha de ter feito;
 
