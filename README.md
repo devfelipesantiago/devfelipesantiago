@@ -2,6 +2,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsfelipesantiago)](https://github.com/devsfelipesantiago/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsfelipesantiago&count_private=true)
+
+
+
 
 <!--
 **devsfelipesantiago/devsfelipesantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
