@@ -7,9 +7,9 @@
   - Tenho programado tanho web quanto mobile, sempre utilizando TDD.
   - Adoro a programação e a idéia de poder criar soluções, por esse motivo fiz essa transição de carreira e tenho confiança que escolhi certo!
   
-![Linkdin](https://user-images.githubusercontent.com/63599404/120906428-b1949780-c62f-11eb-9d7d-653dd04902a4.png=150x150)
+[Linkedin](https://www.linkedin.com/in/devsfelipesantiago/)
 
-Link para repositórios dos quais mais se orgulha de ter feito;
+[Email](felipesantiagolds@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsfelipesantiago&show_icons=true&theme=tokyonight)
 
