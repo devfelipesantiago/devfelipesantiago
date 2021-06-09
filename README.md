@@ -39,7 +39,8 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
         alt="javascript" width="60" height="60" /> </a> <a href="https://jestjs.io" target="_blank"> <img
         src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="60" height="60" /> </a> <a
-      href="https://www.linux.org/" target="_blank"> <img
+                                                                                                                        href="https://www.linux.org/" target="_blank"> <img </p>
+  <p
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
         width="60" height="60" /> </a> <a href="https://www.mongodb.com/" target="_blank"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
