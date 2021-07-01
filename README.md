@@ -57,12 +57,13 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
         alt="typescript" width="60" height="60" /> </a> </p>
 
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devsfelipesantiago&layout=compact&theme=graywhite&title_color=268bd2" alt="devsfelipesantiago" />
+  </p>
+  
   <p>&nbsp;<img align="center"
       src="https://github-readme-stats.vercel.app/api?username=devsfelipesantiago&show_icons=true&theme=tokyonight"
       alt="devsfelipesantiago" /></p>
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsfelipesantiago&layout=compact&theme=graywhite&title_color=268bd2" alt="johnatas-henrique" />
-  </p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devsfelipesantiago&"
-      alt="devsfelipesantiago" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devsfelipesantiago&" alt="devsfelipesantiago" /></p>
+      
