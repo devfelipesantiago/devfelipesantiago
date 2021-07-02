@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: devsfelipesantiago/github-profile-summary-cards@release
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ SUMMATY_CARDS_TOKEN }}
         with:
