@@ -56,14 +56,10 @@
         width="60" height="60" /> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
         alt="typescript" width="60" height="60" /> </a> </p>
+    
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devsfelipesantiago&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devsfelipesantiago&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devsfelipesantiago&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devsfelipesantiago&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devsfelipesantiago&theme=github_dark)
 
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devsfelipesantiago&layout=compact&theme=graywhite&title_color=268bd2" alt="devsfelipesantiago" />
-  </p>
-  
-  <p>&nbsp;<img align="center"
-      src="https://github-readme-stats.vercel.app/api?username=devsfelipesantiago&show_icons=true&theme=tokyonight"
-      alt="devsfelipesantiago" /></p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devsfelipesantiago&" alt="devsfelipesantiago" /></p>
       
