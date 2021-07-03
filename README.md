@@ -53,9 +53,7 @@
         src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" height="60" /> </a> <a
       href="https://redux.js.org" target="_blank"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
-        width="60" height="60" /> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-        alt="typescript" width="60" height="60" /> </a> </p>
+        width="60" height="60" /> </a> <a href="https://www.typescriptlang.org/" target="_blank"></p>
     
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devsfelipesantiago&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devsfelipesantiago&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devsfelipesantiago&theme=github_dark)
