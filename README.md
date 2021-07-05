@@ -5,11 +5,11 @@
       src="https://komarev.com/ghpvc/?username=devsfelipesantiago&label=Profile%20views&color=0e75b6&style=flat"
       alt="devsfelipesantiago" /> </p>
 
-  - 🌱 Eu estou aprendendo **BackEnd com Nodejs, MySql, Express, etc.**
+  - 🌱 Eu estou aprendendo **Back-End com Nodejs.**
 
   - 💬 Pergunte-me sobre **qualquer coisa!**
 
-  - 📫 Meu Email **felipesantiagolds@gmail.com**
+  - 📫 Meu Email **devfelipesantiago@gmail.com**
 
   <h3 align="left">Connect with me:</h3>
   <p align="left">
