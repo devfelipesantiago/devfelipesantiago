@@ -1,6 +1,4 @@
-<h1 align="center">Bem vindo, sou Felipe Santiago</h1>
-
-<h2 align="center">Desenvolvedor Web FullStack</h3>
+<h1 align="center">Bem vindo, sou Desenvolvedor Web FullStack</h1>
 
 - 🌱 Eu estou aprendendo **Back-End com Nodejs.**
 - 💬 Pergunte-me sobre **qualquer coisa!**
