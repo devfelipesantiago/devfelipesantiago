@@ -1,21 +1,12 @@
   <h1 align="center">Bem vindo, sou Felipe Santiago</h1>
   <h3 align="center">Desenvolvedor Web FullStack</h3>
 
-  <p align="left"> <img
-      src="https://komarev.com/ghpvc/?username=devsfelipesantiago&label=Profile%20views&color=0e75b6&style=flat"
-      alt="devsfelipesantiago" /> </p>
-
   - 🌱 Eu estou aprendendo **Back-End com Nodejs.**
-
   - 💬 Pergunte-me sobre **qualquer coisa!**
-
-  - 📫 Meu Email **devfelipesantiago@gmail.com**
-
+  
   <h3 align="left">Connect with me:</h3>
   <p align="left">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/devsfelipesantiago/" target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="https://www.linkedin.com/in/devsfelipesantiago/" height="30" width="60" /></a>
+      <a href = "mailto:devfelipesantiago@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://linkedin.com/in/devsfelipesantiago/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </p>
 
   <h3 align="left">Languages and Tools:</h3>
@@ -35,10 +26,8 @@
       target="_blank"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
         alt="javascript" width="60" height="60" /> </a> <a href="https://jestjs.io" target="_blank"> <img
-        src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="60" height="60" /> </a> <a
-                                                                                                                        href="https://www.linux.org/" target="_blank"> <img </p>
-  <p
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
+        src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="60" height="60" /> </a> <href="https://www.linux.org/" target="_blank"> <img </p>
+  <p src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
         width="60" height="60" /> </a> <a href="https://www.mongodb.com/" target="_blank"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
         alt="mongodb" width="60" height="60" /> </a> <a href="https://www.microsoft.com/en-us/sql-server"
@@ -53,11 +42,15 @@
         src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" height="60" /> </a> <a
       href="https://redux.js.org" target="_blank"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
-        width="60" height="60" /> </a> <a href="https://www.typescriptlang.org/" target="_blank"></p>
+        width="60" height="60" /> </a> <a href="https://www.typescriptlang.org/" target="_blank"></p>  
+<div>
+  <a href="https://github.com/devsfelipesantiago">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsfelipesantiago&layout=compact&langs_count=7&theme=github_dark"/><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devsfelipesantiago&theme=github_dark"/><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devsfelipesantiago&theme=github_dark"/><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devsfelipesantiago&theme=github_dark"/>
     
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devsfelipesantiago&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devsfelipesantiago&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devsfelipesantiago&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devsfelipesantiago&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devsfelipesantiago&theme=github_dark)
-
-
-      
+    ![Snake animation](https://github.com/devsfelipesantiago/devsfelipesantiago/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+  <p align="left"> <img
+      src="https://komarev.com/ghpvc/?username=devsfelipesantiago&label=Profile%20views&color=0e75b6&style=flat"
+      alt="devsfelipesantiago" /> 
+  </p>
