@@ -1,6 +1,6 @@
 <h1 align="center">Bem vindo, sou Desenvolvedor Web FullStack</h1>
 
-- 🌱 Eu estou aprendendo **Back-End com Nodejs.**
+- 🌱 Eu estou aprendendo **JAVA**
 - 💬 Pergunte-me sobre **qualquer coisa!**
 
 <div style="display: flex">
