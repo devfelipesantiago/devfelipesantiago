@@ -32,9 +32,9 @@
 <div>
   <a href="mailto:devfelipesantiago@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://linkedin.com/in/devsfelipesantiago/" target="_blank">
+  <a href="https://linkedin.com/in/devfelipesantiago/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=devsfelipesantiago&label=Profile%20views&color=0e75b6&style=flat" alt="devsfelipesantiago" />
+  <img src="https://komarev.com/ghpvc/?username=devfelipesantiago&label=Profile%20views&color=0e75b6&style=flat" alt="devsfelipesantiago" />
 </div>
