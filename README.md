@@ -1,26 +1,50 @@
-## :raising_hand: Introducing Myself
+## 🙋🏽 Sobre Mim
 
-![Brown and Gray Simple Personal LinkedIn Banner](<img width="2000" height="1045" alt="image" src="https://github.com/user-attachments/assets/dcff9d25-d82c-4f0d-8f94-4433f6809e55" />
-)
+![Brown and Gray Simple Personal LinkedIn Banner](1778070201203.jpg)
 
-Hello, I'm Felipe. Data enginner with expertise in data analysis and ETL, query optimization, database design, and data modelling. 
+Olá! Eu sou o Felipe, Engenheiro de Dados com experiência em análise de dados, ETL, otimização de queries, modelagem de dados e design de bancos de dados.
 
-- Querying data using SQL.
-- Generate reports and perform ad-hoc data analysis using SQL.
-- Developing dashboards on Power BI.
-- Data analysis and reporting using Google Sheets and Excel.
-- Data modelling using databricks
+Tenho paixão por transformar dados em insights úteis para tomada de decisão.
 
-### 📚 Projects
+---
 
-Welcome to my portfolio, where I showcase my [projects]().
+## 💼 Principais Habilidades
 
-### 🛠️ Tools
+- Manipulação e consulta de dados com SQL  
+- Criação de relatórios e análises ad-hoc  
+- Desenvolvimento de dashboards no Power BI  
+- Análise de dados com Google Sheets e Excel  
+- Modelagem de dados utilizando Databricks  
 
-- Language: SQL, Python
-- Database: Google BigQuery, PostgreSQL, MySQL, S3
-- Visualization: Power Bi, Python
+---
 
-### 👋🏻 Connect with Me
+## 📚 Projetos
 
-- [Linkedin](https://www.linkedin.com/in/devfelipesantiago/)
+Bem-vindo ao meu portfólio, onde apresento alguns dos meus projetos:
+
+- [Projetos](#)
+
+---
+
+## 🛠️ Ferramentas e Tecnologias
+
+**Linguagens:**  
+- SQL  
+- Python  
+
+**Banco de Dados:**  
+- Google BigQuery  
+- PostgreSQL  
+- MySQL  
+- Amazon S3
+- Mongo DB
+
+**Visualização:**  
+- Power BI  
+- Python (Matplotlib, Seaborn, etc.)  
+
+---
+
+## 👋🏽 Conecte-se Comigo
+
+- [LinkedIn](https://www.linkedin.com/in/devfelipesantiago/)
