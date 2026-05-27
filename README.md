@@ -30,7 +30,9 @@ Bem-vindo ao meu portfólio, onde apresento alguns dos meus projetos:
 
 **Linguagens:**  
 - SQL  
-- Python  
+- Python
+- NodeJS
+- Java
 
 **Banco de Dados:**  
 - Google BigQuery  
