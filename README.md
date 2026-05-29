@@ -10,13 +10,16 @@ Tenho paixão por transformar dados em insights úteis para tomada de decisão.
 
 ## 💼 Principais Habilidades
 
-- Manipulação e consulta de dados com SQL  
-- Criação de relatórios e análises ad-hoc  
-- Desenvolvimento de dashboards no Power BI  
-- Análise de dados com Google Sheets e Excel  
-- Modelagem de dados utilizando Databricks  
-
----
+- **Análise Exploratória de Dados (EDA/ETL):** Limpeza, manipulação e descoberta de insights usando bibliotecas como **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, **Pandas Profiling** e **Sweetviz**.
+- **Consultas (Queries):** Seleção, filtragem, ordenação e agregação de dados.
+- **Junções (JOINs) e Relacionamentos:** INNER, OUTER, CROSS, SEMI e ANTI JOINs.
+- **Consultas Avançadas:** Subqueries, CTEs (Common Table Expressions) e Window Functions (Ranks, LAG, LEAD).
+- **Manipulação de Dados (DML e DDL):** Criação, alteração e exclusão de tabelas; inserção, atualização e deleção de registros.
+- **Conceitos de Arquitetura:** Modelagem de Dados (ERD), Data Warehouse e Data Lakes.
+- **ETL com Power Query:** Importação de diferentes fontes (Excel, CSV, SQL), limpeza e transformação de dados (texto, data, números) e mescla de consultas.
+- **DAX (Data Analysis Expressions):** Criação de medidas, colunas calculadas e indicadores de performance.
+- **Data Storytelling:** Desenvolvimento de dashboards interativos e relatórios visuais focados na experiência do usuário e na geração de insights.
+***
 
 ## 📚 Projetos
 
@@ -28,23 +31,15 @@ Bem-vindo ao meu portfólio, onde apresento alguns dos meus projetos:
 
 ## 🛠️ Ferramentas e Tecnologias
 
-**Linguagens:**  
-- SQL  
-- Python
-- NodeJS
-- Java
+- **Linguagens:** Python, SQL, NodeJS, Java
+- **Visualização de Dados e BI:** Power BI, Microsoft Excel
+- **Big Data & Cloud:** Apache Spark, Databricks, Fundamentos de Cloud
 
-**Banco de Dados:**  
-- Google BigQuery  
+**Banco de Dados:**
 - PostgreSQL  
 - MySQL  
 - Amazon S3
 - Mongo DB
-
-**Visualização:**  
-- Power BI  
-- Python (Matplotlib, Seaborn, etc.)  
-
 ---
 
 ## 👋🏽 Conecte-se Comigo
