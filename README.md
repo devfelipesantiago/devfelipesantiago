@@ -2,11 +2,11 @@
 
 ![Brown and Gray Simple Personal LinkedIn Banner](1778070201203.jpg)
 
-Olá! Eu sou o Felipe, Engenheiro de Dados com experiência em análise de dados, ETL, otimização de queries, modelagem de dados e design de bancos de dados.
+Olá! Eu sou o Felipe, Engenheiro de Dados com experiência em desenvolvimento de software.
+No momento cursando **pós graduação** em ***Engenharia de dados***.
 
-Tenho paixão por transformar dados em insights úteis para tomada de decisão.
-
----
+Tenho paixão por transformar dados e manipular big data.
+***
 
 ## 💼 Principais Habilidades
 
