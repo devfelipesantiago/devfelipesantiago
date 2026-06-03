@@ -5,7 +5,7 @@
 Olá! Eu sou o Felipe, Engenheiro de Dados com experiência em desenvolvimento de software.
 No momento cursando **pós graduação** em ***Engenharia de dados***.
 
-Tenho paixão por transformar dados e manipular big data.
+Tenho paixão por transformar dados em valor.
 ***
 
 ## 💼 Principais Habilidades
