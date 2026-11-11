@@ -3,7 +3,9 @@
 ![Brown and Gray Simple Personal LinkedIn Banner](1778070201203.jpg)
 
 ### Engenheiro de Dados | Especialista em Arquitetura de Dados, Pipelines Resilientes & Cloud
+
 Pós-graduando em **Engenharia de Dados pela PUC Minas** com sólida base prévia em **Engenharia de Software (Backend/Fullstack)**.
+
 Meu foco é construir arquiteturas de dados ponta a ponta: desde a extração confiável de bancos transacionais operacionais (OLTP) até a estruturação em **Data Lakes (Medallion)** e **Data Warehouses analíticos (OLAP)**, sempre priorizando governança, qualidade de dados e escalabilidade com código limpo e conteinerizado.
 ***
 ## 🚀 Projetos em Destaque (Engenharia de Dados)
