@@ -1,24 +1,21 @@
-## 🙋🏽 Sobre Mim
+Olá, sou o Felipe Santiago 👋
 
 ![Brown and Gray Simple Personal LinkedIn Banner](1778070201203.jpg)
 
-Olá! Eu sou o Felipe, Engenheiro de Dados com experiência em desenvolvimento de software.
-No momento cursando **pós graduação** em ***Engenharia de dados***.
+Engenheiro de Dados | Especialista em Arquitetura de Dados, Pipelines Resilientes e Cloud
 
-Tenho paixão por transformar dados em valor.
+Pós-graduando em Engenharia de Dados pela PUC Minas com sólida base prévia em Engenharia de Software. Meu foco é construir arquiteturas de dados ponta a ponta: desde a extração de bancos operacionais (OLTP) até a disponibilização em Data Lakes e Data Warehouses analíticos (OLAP), garantindo qualidade, governança e escalabilidade.
+
 ***
 
 ## 💼 Principais Habilidades
 
-- **Análise Exploratória de Dados (EDA/ETL):** Limpeza, manipulação e descoberta de insights usando bibliotecas como **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, **Pandas Profiling** e **Sweetviz**.
-- **Consultas (Queries):** Seleção, filtragem, ordenação e agregação de dados.
-- **Junções (JOINs) e Relacionamentos:** INNER, OUTER, CROSS, SEMI e ANTI JOINs.
-- **Consultas Avançadas:** Subqueries, CTEs (Common Table Expressions) e Window Functions (Ranks, LAG, LEAD).
-- **Manipulação de Dados (DML e DDL):** Criação, alteração e exclusão de tabelas; inserção, atualização e deleção de registros.
-- **Conceitos de Arquitetura:** Modelagem de Dados (ERD), Data Warehouse e Data Lakes.
-- **ETL com Power Query:** Importação de diferentes fontes (Excel, CSV, SQL), limpeza e transformação de dados (texto, data, números) e mescla de consultas.
-- **DAX (Data Analysis Expressions):** Criação de medidas, colunas calculadas e indicadores de performance.
-- **Data Storytelling:** Desenvolvimento de dashboards interativos e relatórios visuais focados na experiência do usuário e na geração de insights.
+🛠️ Tecnologias & Habilidades
+- **Linguagens & Processamento**: Python (Pandas, PySpark), SQL Avançado (CTEs, Window Functions, Otimização de Queries), Bash/Linux.
+- **Engenharia & Arquitetura**: Modelagem Dimensional (Star Schema, SCD Tipo 2), Arquitetura Medallion, Data Lake, Data Warehouse.
+- **Orquestração & DevOps**: Apache Airflow, Docker, Docker Compose, Git/GitHub, CI/CD básico.
+- **Bancos de Dados & Storage**: PostgreSQL, MySQL, NoSQL (MongoDB), Parquet, AWS S3.
+
 ***
 
 ## 📚 Projetos
@@ -29,19 +26,6 @@ Bem-vindo ao meu portfólio, onde apresento alguns dos meus projetos:
 
 ---
 
-## 🛠️ Ferramentas e Tecnologias
+📬 Vamos conversar?
+Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/devfelipesantiago/) ou mande um e-mail para batermos um papo sobre dados e engenharia!
 
-- **Linguagens:** Python, SQL, NodeJS, Java
-- **Visualização de Dados e BI:** Power BI, Microsoft Excel
-- **Big Data & Cloud:** Apache Spark, Databricks, Fundamentos de Cloud
-
-**Banco de Dados:**
-- PostgreSQL  
-- MySQL  
-- Amazon S3
-- Mongo DB
----
-
-## 👋🏽 Conecte-se Comigo
-
-- [LinkedIn](https://www.linkedin.com/in/devfelipesantiago/)
